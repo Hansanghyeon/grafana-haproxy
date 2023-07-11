@@ -2,6 +2,12 @@
 
 [HAProxy | Grafana Labs](https://grafana.com/grafana/dashboards/2428-haproxy/) 해당 대시보드를 haproxy 2.8에 호환하게 변경
 
+## Haproxy + Prometheus + Grafana
+
+[Observability | Metrics | Prometheus | HAProxy Enterprise 2.7r1](https://www.haproxy.com/documentation/hapee/latest/observability/metrics/prometheus/)
+[Prometheus + Grafana + Docker Compose 설치 | devkuma](https://www.devkuma.com/docs/prometheus/docker-compose-install/)
+[New Docker Install with persistent storage, Permission problem - Grafana / Configuration - Grafana Labs Community Forums](https://community.grafana.com/t/new-docker-install-with-persistent-storage-permission-problem/10896/17)
+
 ## Grafana 집계를 위해서 haproxy frontend 분리하기
 
 현재 나의 인프라에서 gateway 역활에 haproxy가 로드밸런서 역활을하고있다.
